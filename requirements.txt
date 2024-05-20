@@ -1,0 +1,46 @@
+# Global Requirements for Python Projects Dashboard
+
+# Core Libraries
+streamlit==1.33.0
+pandas==2.2.1
+plotly==5.20.0
+numpy==1.26.4
+
+# API and External Libraries
+requests==2.31.0
+python-dotenv==1.0.1
+
+# Machine Learning and AI
+openai==1.14.2
+textblob==0.17.1
+
+# Database and ORM
+sqlalchemy==2.0.29
+
+# Specific Project Requirements
+## URL Shortener
+pyshorteners==1.0.1
+validators==0.22.0
+
+## Weather Forecast
+geopy==2.4.1
+
+## Recipe Recommender
+themealdb==1.0.0
+
+## Music Recommender
+spotipy==2.23.0
+
+## Crypto Tracker
+pycoingecko==3.1.0
+
+## Social Media Sentiment
+tweepy==4.14.0
+
+## Translation App
+googletrans==3.1.0a0
+gtts==2.5.1
+
+# Development and Testing
+pytest==7.4.4
+flake8==6.1.0

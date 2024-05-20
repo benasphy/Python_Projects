@@ -1,0 +1,5 @@
+streamlit==1.33.0
+yfinance
+pandas==2.2.1
+plotly==5.20.0
+sqlalchemy==2.0.27
