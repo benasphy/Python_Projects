@@ -131,12 +131,13 @@ A comprehensive collection of 15 interactive Streamlit applications covering var
 - Project-specific dependencies (see individual requirements.txt)
 
 ## Installation
+
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/python-projects.git
+git clone https://github.com/benasphy/Python_Projects.git
 
 # Navigate to the project directory
-cd python-projects
+cd Python_Projects
 
 # Create a virtual environment (recommended)
 python3 -m venv venv
