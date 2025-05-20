@@ -28,6 +28,8 @@ geopy==2.4.1
 ## Recipe Recommender
 themealdb==1.0.0
 
+-i https://pypi.org/simple
+
 ## Music Recommender
 spotipy==2.23.0
 

@@ -1,4 +1,6 @@
-# Python Projects Dashboard
+# Python_Projects
+
+**Repository:** [https://github.com/benasphy/Python_Projects](https://github.com/benasphy/Python_Projects)
 
 ## Overview
 A comprehensive collection of 15 interactive Streamlit applications covering various domains, from entertainment to productivity and advanced analytics.
