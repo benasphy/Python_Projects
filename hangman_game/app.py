@@ -45,10 +45,10 @@ def main():
     st.title("🎲 Hangman Game")
     
     # Initialize game in session state
-    if 'game' not in st.session_state:
-        st.session_state.game = HangmanGame()
+    if 'hangman_game' not in st.session_state:
+        st.session_state.hangman_game = HangmanGame()
     
-    game = st.session_state.game
+    game = st.session_state.hangman_game
     
     # Display current word state
     st.write(f"### Word: {game.display_word()}")

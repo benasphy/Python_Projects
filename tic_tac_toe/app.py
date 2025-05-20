@@ -41,10 +41,10 @@ def main():
     st.title("🎲 Tic Tac Toe")
     
     # Initialize game in session state
-    if 'game' not in st.session_state:
-        st.session_state.game = TicTacToe()
+    if 'tic_tac_toe' not in st.session_state:
+        st.session_state.tic_tac_toe = TicTacToe()
     
-    game = st.session_state.game
+    game = st.session_state.tic_tac_toe
     
     # Display board
     board_display = [':white_large_square:' if spot == '' else spot for spot in game.board]
