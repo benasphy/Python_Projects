@@ -2,6 +2,23 @@
 
 **Repository:** [https://github.com/benasphy/Python_Projects](https://github.com/benasphy/Python_Projects)
 
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/benasphy/Python_Projects.git
+
+# Navigate to the project directory
+cd Python_Projects
+
+# Create a virtual environment (recommended)
+python3 -m venv venv
+source venv/bin/activate
+
+# Install main requirements
+pip install -r requirements.txt
+```
+
 ## Overview
 A comprehensive collection of 15 interactive Streamlit applications covering various domains, from entertainment to productivity and advanced analytics.
 
